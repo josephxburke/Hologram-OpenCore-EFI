@@ -16,7 +16,7 @@ Notes: config.plist has been stripped of all SMBIOS entries. You will want to ge
 https://github.com/corpnewt/GenSMBIOS
 
 Current (shoppable) hardware list:
-https://pcpartpicker.com/list/gQf4f9
+https://pcpartpicker.com/list/rPtQ4n
 
 - Gigabyte Z390 Designare Motherboard (BIOS Ver. F8)
 - Intel i9-9900K CPU (3.6GHz)
