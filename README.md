@@ -25,7 +25,7 @@ https://pcpartpicker.com/list/gQf4f9
 - Primary HD (macOS): Samsung 970 Evo 500GB M.2 NVME SSD
 - Secondary HD (Windows 10 Pro): Samsung 860 Evo 250GB SSD
 - Data Disks: Seagate Barracuda Compute 4TB & 8TB Internal HD
-- Sapphire Radeon RX 580 8GB Pulse
+- Sapphire Pulse Radeon RX 580 8GB
 - Corsair RMx 850 80+ Gold ATX Power Supply
 - NZXT H510i ATX Mid-Tower Case
 
