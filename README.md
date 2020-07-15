@@ -31,3 +31,6 @@ https://pcpartpicker.com/list/gQf4f9
 
 Wi-Fi / Bluetooth Module (native support in macOS for continuity/handoff/watch unlock features):
 - Broadcom BC94360CD (802.11a/b/g/n/ac, Bluetooth 4.0)
+
+To read about this build, visit my personal site:
+https://josephx.com/writing/hackintosh-hologram
