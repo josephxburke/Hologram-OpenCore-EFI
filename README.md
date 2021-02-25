@@ -9,7 +9,7 @@ https://dortania.github.io/OpenCore-Desktop-Guide/
 
 ---
 
-OpenCore Version: **0.6.3**
+OpenCore Version: **0.6.6**
 macOS Version: **10.15.7 (Catalina)**
 
 Notes: config.plist has been stripped of all SMBIOS entries. You will want to generate, test, and input your own using corpnewt's GenSMBIOS tool:
